@@ -1,5 +1,4 @@
 # FireZap #
 
-----------
 
-Simple IPTV-Client for Amazon Fire TV
+Simple and easy IPTV Client for Amazon Fire TV
