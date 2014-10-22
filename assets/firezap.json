@@ -1,0 +1,8 @@
+{
+	"channels": [
+		{
+			"title": "Sample Stream",
+			"stream": "rtsp://example.com/example"
+		}
+	]
+}
